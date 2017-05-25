@@ -1,0 +1,31 @@
+* {
+	font-family: "Indie Flower";
+	color: #444444;
+}
+
+img#main {
+	width: 250px;
+	height: 250px;
+	margin-top: 50px;
+	border: #444444 solid;
+}
+h1#title {
+	margin-bottom: -20px;
+}
+
+div#about {
+	background-color: rgb(158, 159, 163, .2);
+	margin: 0px 100px 0px 100px;
+	-webkit-border-radius: 12px 12px;
+}
+
+p#about {
+	margin: 10px 10px 10px 10px;
+	font-size: 20px;
+	font-family: "Neucha" !important;
+}
+
+div#footer, p#footer {
+	text-align: center;
+	font-family: "Neucha" !important;
+}
