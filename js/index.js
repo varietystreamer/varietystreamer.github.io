@@ -16,7 +16,7 @@ window.onload = function() {
         main.style.borderColor = "green";
       }
     } else {
-      live.innerHTML = "I'm not live!";
+      live.innerHTML = "<center>I'm not live!";
       main.style.borderColor = "red";
     }
   })
