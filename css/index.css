@@ -191,6 +191,6 @@ div#footer, p#footer {
     color: #e87d7d;
   }
 }
-p#rainbow {
+span#rainbow {
   animation: rainbow 3s infinite;
 }
