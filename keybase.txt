@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/ereiter
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://imavarietystreamer.info
+  * I am ereiter (https://keybase.io/ereiter) on keybase.
+  * I have a public key with fingerprint 2810 03F3 8B2A 74F0 BBE6  CBD4 0C9B 1055 D547 E891
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01019a0c00540c6d363a7c24a1405deeab920450d0f3003a328ee7e845f5b1b01e350a",
+      "fingerprint": "281003f38b2a74f0bbe6cbd40c9b1055d547e891",
+      "host": "keybase.io",
+      "key_id": "0c9b1055d547e891",
+      "kid": "01019a0c00540c6d363a7c24a1405deeab920450d0f3003a328ee7e845f5b1b01e350a",
+      "uid": "8c914300d6d8d44f943581fe3885a419",
+      "username": "ereiter"
+    },
+    "service": {
+      "hostname": "imavarietystreamer.info",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1519839275,
+  "expire_in": 157680000,
+  "prev": "c3c25500ce54d79a6b72e8ea325cb5e7e721110e48fadcdf95a6361fbd6c8601",
+  "seqno": 27,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMIvAnicrZJbSBRRGMdX7aoUCQlWD1tDmYubnDMzZy5bEYYSSheiIithOTPnGx3M
+2XV23BSx61NFkFBJ+pBiQUQPIYVgaV66CFFmUIEKCVH6EEVEpl2wM12eeu28HM7H
+7/t//+/PubcoLZCecmhD88X1yz50pjzqa6sJ7L8wmVcvGDFWJ0TqhUr4dcFBBgkv
+WmkzISIgjLBOkYkQkZGpMEmRqGqKMsUyIgyAGrqIZIIYsiSEJCqJGoAKmkwsYmAD
+YZAIokJYsGynHNy4azselxU1zGlL0gyRqrKFDAMU02B8hG5gRAgjMhfRMW+siCX8
+Dm7OoAnIt2O8xh/R3/b+5f+z75pfcpqpY5mDTGEak2VLlyWiYQskTSNUxroPJsB1
+aBVwGlywPXCFhrDAi0nbBD9Xf5E/gF1Fk9S1watLeC7wmptvO5a/WdyNeTEzdpBD
+FZ4Xj/gaXl3cbzoERvSPXNSwHcYD5Q1JcBN2zBEimJOmZ/v6mGBdk3RRJWEBauO2
+C1HbJ4iqaIgffwwkuaQpmSIhCJlAZKbqVDFUETTgaRDTIDwPVcQYI5A1izKTWTqh
+iqRgy2CKqSnIjzsB1U5MiIgq90nLuWbCLneoV+OC0NDfWzYnkJIemDc31f9pgfSF
+S/7+v82j82f3tQbCWVubkhkbM642f7VebR8a7imMlLw70fWlMXTr6abcLe+rF9e/
+aU7NyejNLR9uPz10eUdHZ++ejlDV+Kdvd/pfTruPVo0+f53tBAv6k+dbyj6UpN1f
+8HZ2sv5jw+PMTDlnUOse6cr6kVFY3bPkTPHYlYJPM73Fl4oGGk8XHW+6e6B75+De
+wa+zkbLLa4pzdgR3FxZPXV8xxh6W5d64mReUPx95cHR62kEv6trOhSbsrtqzrWdP
+gfl4JHBy14artdHVgY9pT7qWfu+eaSmZG7o0vnwqpHdXtrWmlh4Orli5tnJKym5b
+Lw2E20/MPNlWMHD7WHjCDfbl9lz78qy0ZOG69vyf6fxF7A==
+=Mq3W
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ereiter
+
+==================================================================
